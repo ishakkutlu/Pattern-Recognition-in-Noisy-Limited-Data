@@ -1,4 +1,4 @@
-# LMFO AI – Pattern Recognition in Real-World Noisy Environments
+# LMFO AI – Pattern Recognition in Real-World Noisy Environments 
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
